@@ -15,6 +15,7 @@
 		3FE35D0529AE52D700590E95 /* PostModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D0429AE52D700590E95 /* PostModel.swift */; };
 		3FE35D0729AE52F000590E95 /* NetworkModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D0629AE52F000590E95 /* NetworkModel.swift */; };
 		3FE35D0929AE548900590E95 /* InvitationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D0829AE548800590E95 /* InvitationView.swift */; };
+		3FE35D0B29AE5AA100590E95 /* NetworkScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D0A29AE5AA100590E95 /* NetworkScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		3FE35D0429AE52D700590E95 /* PostModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostModel.swift; sourceTree = "<group>"; };
 		3FE35D0629AE52F000590E95 /* NetworkModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkModel.swift; sourceTree = "<group>"; };
 		3FE35D0829AE548800590E95 /* InvitationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvitationView.swift; sourceTree = "<group>"; };
+		3FE35D0A29AE5AA100590E95 /* NetworkScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 			children = (
 				3FE35D0129AE4FEC00590E95 /* SearchBar.swift */,
 				3FE35D0829AE548800590E95 /* InvitationView.swift */,
+				3FE35D0A29AE5AA100590E95 /* NetworkScreen.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FE35CF529AE4EA200590E95 /* ContentView.swift in Sources */,
+				3FE35D0B29AE5AA100590E95 /* NetworkScreen.swift in Sources */,
 				3FE35D0529AE52D700590E95 /* PostModel.swift in Sources */,
 				3FE35CF329AE4EA200590E95 /* LinkedIn_CloneApp.swift in Sources */,
 				3FE35D0729AE52F000590E95 /* NetworkModel.swift in Sources */,
