@@ -16,6 +16,11 @@
 		3FE35D0729AE52F000590E95 /* NetworkModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D0629AE52F000590E95 /* NetworkModel.swift */; };
 		3FE35D0929AE548900590E95 /* InvitationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D0829AE548800590E95 /* InvitationView.swift */; };
 		3FE35D0B29AE5AA100590E95 /* NetworkScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D0A29AE5AA100590E95 /* NetworkScreen.swift */; };
+		3FE35D0D29AE5E8E00590E95 /* PostCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D0C29AE5E8E00590E95 /* PostCardView.swift */; };
+		3FE35D0F29AE8C3200590E95 /* ProfileAndPostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D0E29AE8C3200590E95 /* ProfileAndPostView.swift */; };
+		3FE35D1129AE8D4A00590E95 /* PostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D1029AE8D4A00590E95 /* PostView.swift */; };
+		3FE35D1329AE902800590E95 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D1229AE902800590E95 /* HomeScreen.swift */; };
+		3FE35D1529AE90C000590E95 /* TabViewScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D1429AE90C000590E95 /* TabViewScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +34,11 @@
 		3FE35D0629AE52F000590E95 /* NetworkModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkModel.swift; sourceTree = "<group>"; };
 		3FE35D0829AE548800590E95 /* InvitationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvitationView.swift; sourceTree = "<group>"; };
 		3FE35D0A29AE5AA100590E95 /* NetworkScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkScreen.swift; sourceTree = "<group>"; };
+		3FE35D0C29AE5E8E00590E95 /* PostCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCardView.swift; sourceTree = "<group>"; };
+		3FE35D0E29AE8C3200590E95 /* ProfileAndPostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileAndPostView.swift; sourceTree = "<group>"; };
+		3FE35D1029AE8D4A00590E95 /* PostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostView.swift; sourceTree = "<group>"; };
+		3FE35D1229AE902800590E95 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
+		3FE35D1429AE90C000590E95 /* TabViewScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +95,11 @@
 				3FE35D0129AE4FEC00590E95 /* SearchBar.swift */,
 				3FE35D0829AE548800590E95 /* InvitationView.swift */,
 				3FE35D0A29AE5AA100590E95 /* NetworkScreen.swift */,
+				3FE35D0C29AE5E8E00590E95 /* PostCardView.swift */,
+				3FE35D0E29AE8C3200590E95 /* ProfileAndPostView.swift */,
+				3FE35D1029AE8D4A00590E95 /* PostView.swift */,
+				3FE35D1229AE902800590E95 /* HomeScreen.swift */,
+				3FE35D1429AE90C000590E95 /* TabViewScreen.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -168,12 +183,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FE35D0D29AE5E8E00590E95 /* PostCardView.swift in Sources */,
+				3FE35D0F29AE8C3200590E95 /* ProfileAndPostView.swift in Sources */,
 				3FE35CF529AE4EA200590E95 /* ContentView.swift in Sources */,
 				3FE35D0B29AE5AA100590E95 /* NetworkScreen.swift in Sources */,
+				3FE35D1329AE902800590E95 /* HomeScreen.swift in Sources */,
 				3FE35D0529AE52D700590E95 /* PostModel.swift in Sources */,
 				3FE35CF329AE4EA200590E95 /* LinkedIn_CloneApp.swift in Sources */,
 				3FE35D0729AE52F000590E95 /* NetworkModel.swift in Sources */,
 				3FE35D0229AE4FED00590E95 /* SearchBar.swift in Sources */,
+				3FE35D1129AE8D4A00590E95 /* PostView.swift in Sources */,
+				3FE35D1529AE90C000590E95 /* TabViewScreen.swift in Sources */,
 				3FE35D0929AE548900590E95 /* InvitationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
