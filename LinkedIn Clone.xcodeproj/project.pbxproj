@@ -14,6 +14,7 @@
 		3FE35D0229AE4FED00590E95 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D0129AE4FEC00590E95 /* SearchBar.swift */; };
 		3FE35D0529AE52D700590E95 /* PostModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D0429AE52D700590E95 /* PostModel.swift */; };
 		3FE35D0729AE52F000590E95 /* NetworkModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D0629AE52F000590E95 /* NetworkModel.swift */; };
+		3FE35D0929AE548900590E95 /* InvitationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE35D0829AE548800590E95 /* InvitationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		3FE35D0129AE4FEC00590E95 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 		3FE35D0429AE52D700590E95 /* PostModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostModel.swift; sourceTree = "<group>"; };
 		3FE35D0629AE52F000590E95 /* NetworkModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkModel.swift; sourceTree = "<group>"; };
+		3FE35D0829AE548800590E95 /* InvitationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvitationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			isa = PBXGroup;
 			children = (
 				3FE35D0129AE4FEC00590E95 /* SearchBar.swift */,
+				3FE35D0829AE548800590E95 /* InvitationView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				3FE35CF329AE4EA200590E95 /* LinkedIn_CloneApp.swift in Sources */,
 				3FE35D0729AE52F000590E95 /* NetworkModel.swift in Sources */,
 				3FE35D0229AE4FED00590E95 /* SearchBar.swift in Sources */,
+				3FE35D0929AE548900590E95 /* InvitationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

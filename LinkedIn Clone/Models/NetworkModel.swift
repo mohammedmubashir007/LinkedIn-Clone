@@ -12,6 +12,6 @@ struct NetworkModel {
     var image:String
     var name :String
     var position : String
-    var mutual: String
+    var mutual: Int
     
 }
